@@ -1,0 +1,14 @@
+﻿# Logs e caches
+*.log
+firebase-debug.log
+functions/firebase-debug.log
+
+# Segredos locais
+.env
+functions/.env
+.streamlit/secrets.toml
+functions/.runtimeconfig.json
+
+# Build / dependências
+node_modules/
+functions/lib/

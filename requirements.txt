@@ -1,0 +1,5 @@
+streamlit==1.36.0
+google-cloud-storage
+google-auth
+requests
+
