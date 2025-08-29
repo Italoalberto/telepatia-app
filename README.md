@@ -89,7 +89,7 @@ APIs deployed with Firebase Cloud Functions and Frontend deployed on Streamlit C
 
 ## Preview of the App
 
-![telepatia-screencast mp4](https://github.com/user-attachments/assets/3b14e00d-489b-4697-a7ec-1fef805a0db3)
+<img width="225" height="360" src="![telepatia-screencast mp4](https://github.com/user-attachments/assets/3b14e00d-489b-4697-a7ec-1fef805a0db3)" />
 
 ### Text in the input field
 
