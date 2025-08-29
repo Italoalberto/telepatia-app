@@ -97,16 +97,12 @@ APIs deployed with Firebase Cloud Functions and Frontend deployed on Streamlit C
 
 ### Audio Link in the input field
 
-### Audio Link in the input field
-
 <div style="display: flex; justify-content: center; align-items: flex-start; gap: 10px;">
   <img src="https://github.com/user-attachments/assets/06f95c76-0082-445b-ba52-2256198b7aa8" width="45%" />
   <img src="https://github.com/user-attachments/assets/091a8e37-b944-4ee5-b327-fc8a03b6ff00" width="45%" />
 </div>
 
-### Audio File in the input field
-
-### Upload Audio Example
+### Upload Audio in the input field
 
 <div style="display: flex; justify-content: center; align-items: flex-start; gap: 10px;">
   <img src="https://github.com/user-attachments/assets/443c04e0-ed0b-466b-a1d3-503b7307863a" width="45%" />
