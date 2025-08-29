@@ -89,5 +89,18 @@ APIs deployed with Firebase Cloud Functions.
 
 Frontend deployed on Streamlit Cloud.
 
+### Text in the input field
 
+![Text Field Screenshot](docs/medical-text.png)
 
+### Audio Link in the input field
+
+![Audio Link Screenshot](docs/audio-link-text1.png)
+
+![Audio Link Screenshot](docs/audio-link-text2.png)
+
+### Audio File in the input field
+
+![Audio File Screenshot](docs/upload-text1.png)
+
+![Audio File Screenshot](docs/upload-text2.png)
