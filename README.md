@@ -89,24 +89,37 @@ APIs deployed with Firebase Cloud Functions and Frontend deployed on Streamlit C
 
 ## Preview of the App
 
-<img src="https://github.com/user-attachments/assets/ff6cc35f-5694-46fd-9700-09d1ed6a6607" width="300">
+<img src="https://github.com/user-attachments/assets/ff6cc35f-5694-46fd-9700-09d1ed6a6607" width="400">
 
-### Text in the input field
+## Text in the input field
 
-<img width="260" height="370" alt="upload-text1" src="https://github.com/user-attachments/assets/7d0faf6e-cb02-4868-a5f3-f2362bd18d5e" />
+<img width="290" height="400" alt="upload-text1" src="https://github.com/user-attachments/assets/7d0faf6e-cb02-4868-a5f3-f2362bd18d5e" />
 
-### Audio Link in the input field
+## Audio Link in the input field
 
-<div style="display: flex; justify-content: center; align-items: flex-start; gap: 10px;">
-  <img src="https://github.com/user-attachments/assets/06f95c76-0082-445b-ba52-2256198b7aa8" width="45%" />
-  <img src="https://github.com/user-attachments/assets/091a8e37-b944-4ee5-b327-fc8a03b6ff00" width="45%" />
-</div>
+<table>
+  <tr>
+    <td valign="top" width="50%">
+      <img src="https://github.com/user-attachments/assets/06f95c76-0082-445b-ba52-2256198b7aa8" width="100%" />
+    </td>
+    <td valign="top" width="50%">
+      <img src="https://github.com/user-attachments/assets/091a8e37-b944-4ee5-b327-fc8a03b6ff00" width="100%" />
+    </td>
+  </tr>
+</table>
 
-### Upload Audio in the input field
+## Upload Audio in the input field
 
-<div style="display: flex; justify-content: center; align-items: flex-start; gap: 10px;">
-  <img src="https://github.com/user-attachments/assets/443c04e0-ed0b-466b-a1d3-503b7307863a" width="45%" />
-  <img src="https://github.com/user-attachments/assets/111a6b5b-bfbe-48fd-b069-d95d05695c97" width="45%" />
-</div>
+<table>
+  <tr>
+    <td valign="top" width="50%">
+      <img src="https://github.com/user-attachments/assets/443c04e0-ed0b-466b-a1d3-503b7307863a" width="100%" />
+    </td>
+    <td valign="top" width="50%">
+      <img src="https://github.com/user-attachments/assets/111a6b5b-bfbe-48fd-b069-d95d05695c97" width="100%" />
+    </td>
+  </tr>
+</table>
+
 
 
