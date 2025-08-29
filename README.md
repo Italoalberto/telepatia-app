@@ -89,7 +89,7 @@ APIs deployed with Firebase Cloud Functions and Frontend deployed on Streamlit C
 
 ## Preview of the App
 
-<img src="https://github.com/user-attachments/assets/ff6cc35f-5694-46fd-9700-09d1ed6a6607" width="500">
+<img src="https://github.com/user-attachments/assets/ff6cc35f-5694-46fd-9700-09d1ed6a6607" width="300">
 
 ### Text in the input field
 
@@ -97,11 +97,19 @@ APIs deployed with Firebase Cloud Functions and Frontend deployed on Streamlit C
 
 ### Audio Link in the input field
 
-<img width="577" height="607" alt="audio-link-text2" src="https://github.com/user-attachments/assets/091a8e37-b944-4ee5-b327-fc8a03b6ff00" />
-<img width="539" height="710" alt="audio-link-text1" src="https://github.com/user-attachments/assets/06f95c76-0082-445b-ba52-2256198b7aa8" />
+### Audio Link in the input field
+
+<div style="display: flex; justify-content: center; gap: 10px;">
+  <img src="https://github.com/user-attachments/assets/06f95c76-0082-445b-ba52-2256198b7aa8" width="45%" />
+  <img src="https://github.com/user-attachments/assets/091a8e37-b944-4ee5-b327-fc8a03b6ff00" width="45%" />
+</div>
 
 ### Audio File in the input field
 
-<img width="533" height="514" alt="upload-text2" src="https://github.com/user-attachments/assets/111a6b5b-bfbe-48fd-b069-d95d05695c97" />
-<img width="554" height="729" alt="upload-text1" src="https://github.com/user-attachments/assets/443c04e0-ed0b-466b-a1d3-503b7307863a" />
+### Upload Audio Example
+
+<div style="display: flex; justify-content: center; gap: 10px;">
+  <img src="https://github.com/user-attachments/assets/443c04e0-ed0b-466b-a1d3-503b7307863a" width="45%" />
+  <img src="https://github.com/user-attachments/assets/111a6b5b-bfbe-48fd-b069-d95d05695c97" width="45%" />
+</div>
 
