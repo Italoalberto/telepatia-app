@@ -91,9 +91,9 @@ APIs deployed with Firebase Cloud Functions and Frontend deployed on Streamlit C
 
 <img src="https://github.com/user-attachments/assets/ff6cc35f-5694-46fd-9700-09d1ed6a6607" width="400">
 
-## Text in the input field
+## Text Only in the input field
 
-<img width="290" height="400" alt="upload-text1" src="https://github.com/user-attachments/assets/7d0faf6e-cb02-4868-a5f3-f2362bd18d5e" />
+<img width="310" height="430" alt="upload-text1" src="https://github.com/user-attachments/assets/7d0faf6e-cb02-4868-a5f3-f2362bd18d5e" />
 
 ## Audio Link in the input field
 
@@ -120,6 +120,10 @@ APIs deployed with Firebase Cloud Functions and Frontend deployed on Streamlit C
     </td>
   </tr>
 </table>
+
+## License
+
+This project is licensed under the GNU General Public License (GPL).
 
 
 
