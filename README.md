@@ -85,22 +85,23 @@ Interactive interface in **Streamlit**:
 
 ## Deployment
 
-APIs deployed with Firebase Cloud Functions.
+APIs deployed with Firebase Cloud Functions and Frontend deployed on Streamlit Cloud.
 
-Frontend deployed on Streamlit Cloud.
+## Preview of the App
+
+![telepatia-screencast mp4](https://github.com/user-attachments/assets/3b14e00d-489b-4697-a7ec-1fef805a0db3)
 
 ### Text in the input field
 
-![Text Field Screenshot](docs/medical-text.png)
+<img width="554" height="729" alt="upload-text1" src="https://github.com/user-attachments/assets/7d0faf6e-cb02-4868-a5f3-f2362bd18d5e" />
 
 ### Audio Link in the input field
 
-![Audio Link Screenshot](docs/audio-link-text1.png)
-
-![Audio Link Screenshot](docs/audio-link-text2.png)
+<img width="577" height="607" alt="audio-link-text2" src="https://github.com/user-attachments/assets/091a8e37-b944-4ee5-b327-fc8a03b6ff00" />
+<img width="539" height="710" alt="audio-link-text1" src="https://github.com/user-attachments/assets/06f95c76-0082-445b-ba52-2256198b7aa8" />
 
 ### Audio File in the input field
 
-![Audio File Screenshot](docs/upload-text1.png)
+<img width="533" height="514" alt="upload-text2" src="https://github.com/user-attachments/assets/111a6b5b-bfbe-48fd-b069-d95d05695c97" />
+<img width="554" height="729" alt="upload-text1" src="https://github.com/user-attachments/assets/443c04e0-ed0b-466b-a1d3-503b7307863a" />
 
-![Audio File Screenshot](docs/upload-text2.png)
